@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @YasmeenSharaf
-- 👀 I’m interested in Robotics, Machine learning, Data science, NLP and computer vision
+- 👀 I’m interested in Machine learning, Data science, NLP and computer vision
 - 🌱 I’m a graduate of Faculty of Artificial Intelligence at KFSU
-- I work as  PLC engineer including the sales of my department
+- I work as  PLC maintenance and programming engineer of heavy equipment.
 - 📫 How to reach me sharafy180@gmail.com 
 
 <!---
